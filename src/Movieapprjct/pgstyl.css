@@ -1,0 +1,75 @@
+.dplypop{
+    
+    margin-left: 25px;
+    margin-top: 10px;
+    width: 270px;
+    display: inline-flex;
+    background: scroll;
+
+    
+}
+.dpbtn{
+    color: antiquewhite;
+    margin-left: 30%;
+    margin-top: 240px;
+    background-color: rgba(0, 0, 0, 0.725);
+}
+.titl{
+    color: rgb(228, 234, 235);
+    text-shadow: 2px 2px rgb(36, 112, 183);
+    
+}
+.search{
+    padding: 40px;
+    width: 80%;
+    margin-left: 100px;
+}
+
+.mvdtlimg{
+    margin-top: 100px;
+    width: 300px;
+    margin-left: 50px;
+    
+   
+}
+
+.crdtxt{
+    color: aliceblue;
+    margin-left: 300px;
+    width: 500px;
+   
+
+}
+.banner{
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bnnermaindiv{
+    height: 500px;
+}
+.dtilstylbnner{
+    color: aliceblue;
+    width: 500px;
+    margin-left: 100px;
+}
+h1{
+    width: 500px;
+    color: yellow;
+    margin-left: 100px;
+}
+.btnbnner{
+    background-color: rgba(0, 0, 0, 0.511);
+    margin-left: 100px;
+}
+.dtail2bttn{
+    width: 300px;
+    height: 70px;
+    background-color: rgba(0, 0, 0, 0.422);
+    margin-left: 300px;
+    border: 0px;
+    color: aliceblue;
+}
+.dtailinnerbttn{
+    background-color: rgba(0, 0, 0, 0.47);
+}
